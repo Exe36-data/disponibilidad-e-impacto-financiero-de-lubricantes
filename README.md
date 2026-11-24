@@ -40,7 +40,7 @@ El objetivo del proyecto fue implementar un análisis **descriptivo y de diagnó
 
 ### 4. Recomendaciones Operativas y Comerciales
 ![Pestaña 4 Proyecto DataFuel](dashboard-ejecutivo/Pesta%C3%B1a%204%20Proyecto%20DataFuel%20S.A..png)
-*Síntesis de acciones sugeridas para Producción, Inventario y Gestión Comercial.*
+*Síntesis de acciones sugeridas para Producción, Inventario y Área de Compras.*
 
 ---
 
