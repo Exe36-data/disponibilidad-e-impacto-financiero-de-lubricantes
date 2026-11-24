@@ -1,8 +1,8 @@
 # disponibilidad-e-impacto-financiero-de-lubricantes
 Proyecto de análisis de datos sobre disponibilidad e impacto financiero en la categoría de lubricantes utilizando Excel, Power BI y SQL | Data analytics project evaluating product availability and financial impact in the Lubricants category (Excel, Power BI & SQL)
-# Evaluación de la Disponibilidad e Impacto Financiero — Categoría Lubricantes (DataFuel S.A.)
+# Evaluación de la Disponibilidad e Impacto Financiero de la Categoría de Lubricantes (DataFuel S.A.) - Área Producción
 
-> **Resumen Ejecutivo:** Proyecto integral de analítica de datos que evalúa la disponibilidad de inventario, el desempeño del punto de reorden y la rentabilidad financiera de la familia de **Lubricantes** en **DataFuel S.A.** utilizando **Excel, Power BI y SQL**. El análisis identifica productos activos en riesgo crítico de stock, separa las alertas operativas de reposición de la tendencia general de facturación y propone recomendaciones concretas para la planificación de producción.
+> **Resumen Ejecutivo:** Proyecto integral de analítica de datos que evalúa la disponibilidad de inventario, el desempeño del punto de reorden y la rentabilidad financiera de la familia de **Lubricantes** en **DataFuel S.A.** utilizando **Excel, Power BI y SQL**. Con el objetivo de apoyar la toma de decisiones operativas y financieras, el análisis examina la disponibilidad de stock y el desempeño financiero de los lubricantes activos y plantea acciones para producción e inventario.
 
 ---
 
@@ -65,3 +65,11 @@ El objetivo del proyecto fue implementar un análisis **descriptivo y de diagnó
   1. Revisar la configuración del punto de reorden frente a las unidades en existencia para evitar productos críticos sin cobertura en camino.
   2. Priorizar la programación preventiva de lotes antes de cruzar el nivel de reposición para reducir corridas de emergencia.
   3. Analizar el comportamiento comercial (clientes, pedidos y evolución de cantidades vendidas) de la familia de lubricantes.
+
+## Archivos del repositorio y cómo usar el modelo
+
+- **Tablero y capturas (`dashboard-ejecutivo/`):** Contiene el archivo de Power BI (`.pbix`) y las vistas del dashboard.
+- **Orígenes de datos (`datos/`):** Contiene los archivos `.csv` utilizados para alimentar el modelo.
+- **Documentación (`documentación-funcional/`):** Contiene el documento funcional del proyecto.
+
+> **Nota para abrir el `.pbix`:** Descargá el repositorio completo (botón **Code -> Download ZIP**) o descargá el `.pbix` junto con la carpeta `datos/`. Si Power BI solicita actualizar la ruta del parámetro de origen, apuntá el parámetro a la carpeta `datos/` descargada en tu equipo.
