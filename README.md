@@ -28,18 +28,18 @@ El objetivo del proyecto fue implementar un análisis **descriptivo y de diagnó
 ## Vistas del Dashboard (Power BI)
 
 ### 1. Portada del Proyecto
-![Portada Proyecto DataFuel](Portada%20Proyecto%20DataFuel%20S.A..png)
+![Portada Proyecto DataFuel](dashboard-ejecutivo/Portada%20Proyecto%20DataFuel%20S.A..png)
 
 ### 2. Monitoreo de Stock, Punto de Reorden y Rentabilidad
-![Pestaña 2 Proyecto DataFuel](Pesta%C3%B1a%202%20Proyecto%20DataFuel%20S.A..png)
+![Pestaña 2 Proyecto DataFuel](dashboard-ejecutivo/Pesta%C3%B1a%202%20Proyecto%20DataFuel%20S.A..png)
 *Evaluación ejecutiva de KPIs principales (Lubricantes con Stock Crítico, TQO % y Rentabilidad acumulada de $155.653), evolución histórica 2009–2020 y comparación de Stock Actual vs. Punto de Reorden por producto activo.*
 
 ### 3. Demanda Comercial y Comparativa Financiera
-![Pestaña 3 Proyecto DataFuel](Pesta%C3%B1a%203%20Proyecto%20DataFuel%20S.A..png)
+![Pestaña 3 Proyecto DataFuel](dashboard-ejecutivo/Pesta%C3%B1a%203%20Proyecto%20DataFuel%20S.A..png)
 *Análisis temporal de unidades demandadas, distribución geográfica por país y contraste anual entre Total Facturado y Costos Totales.*
 
 ### 4. Recomendaciones Operativas y Comerciales
-![Pestaña 4 Proyecto DataFuel](Pesta%C3%B1a%204%20Proyecto%20DataFuel%20S.A..png)
+![Pestaña 4 Proyecto DataFuel](dashboard-ejecutivo/Pesta%C3%B1a%204%20Proyecto%20DataFuel%20S.A..png)
 *Síntesis de acciones sugeridas para Producción, Inventario y Gestión Comercial.*
 
 ---
