@@ -1,5 +1,5 @@
 # disponibilidad-e-impacto-financiero-de-lubricantes
-Proyecto de análisis de datos sobre disponibilidad e impacto financiero en la categoría de lubricantes utilizando Excel, Power BI y SQL | Data analytics project evaluating product availability and financial impact in the Lubricants category (Excel, Power BI & SQL)
+Análisis de disponibilidad e impacto financiero en Lubricantes con Excel, Power BI y T-SQL | Availability & financial impact analysis for Lubricants.
 # Evaluación de la Disponibilidad e Impacto Financiero de la Categoría de Lubricantes (DataFuel S.A.) - Área Producción
 
 > **Resumen Ejecutivo:** Proyecto integral de analítica de datos que evalúa la disponibilidad de inventario, el desempeño del punto de reorden y la rentabilidad financiera de la familia de **Lubricantes** en **DataFuel S.A.** utilizando **Excel, Power BI y SQL**. Con el objetivo de apoyar la toma de decisiones operativas y financieras, el análisis examina la disponibilidad de stock y el desempeño financiero de los lubricantes activos y plantea acciones para producción e inventario.
