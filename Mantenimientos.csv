@@ -1,0 +1,51 @@
+IdMantenimiento;IdEquipo;FechaMantenimiento;TipoMantenimiento;Costo
+18;4;2009-04-10;Correctivo;48750
+22;17;2009-06-19;Calibración;129682
+36;13;2009-11-17;Calibración;45050
+29;14;2010-02-26;Reemplazo de componentes;29987
+4;26;2010-04-23;Reemplazo de componentes;128057
+40;4;2010-12-09;Preventivo;44990
+20;26;2010-12-17;Inspección;142119
+47;10;2011-01-21;Correctivo;169357
+19;21;2011-06-05;Correctivo;82428
+31;13;2011-11-23;Inspección;82997
+16;11;2012-02-01;Inspección;154389
+35;1;2012-02-11;Calibración;150079
+45;20;2012-06-02;Inspección;45377
+5;2;2012-07-12;Calibración;108883
+9;14;2012-11-04;Preventivo;123546
+37;12;2013-03-21;Correctivo;101173
+44;25;2013-04-08;Inspección;141793
+43;16;2013-05-26;Correctivo;24411
+2;8;2013-06-03;Reemplazo de componentes;61622
+28;19;2013-11-15;Calibración;92386
+1;25;2014-01-02;Calibración;160437
+13;2;2014-04-01;Calibración;73123
+33;18;2014-05-17;Inspección;26650
+50;8;2014-05-30;Calibración;86614
+14;23;2014-07-18;Reemplazo de componentes;86811
+48;29;2014-07-27;Reemplazo de componentes;84286
+21;26;2014-12-04;Inspección;125980
+49;19;2016-03-04;Inspección;134758
+23;28;2016-08-04;Correctivo;170430
+27;25;2016-09-27;Preventivo;62344
+6;24;2016-11-08;Reemplazo de componentes;42749
+7;4;2016-12-01;Correctivo;88148
+24;22;2016-12-06;Preventivo;22693
+30;28;2017-02-28;Calibración;20478
+39;11;2017-07-05;Preventivo;152879
+46;22;2017-11-22;Calibración;40805
+42;7;2017-12-27;Correctivo;137415
+32;2;2018-02-07;Inspección;46454
+3;13;2018-02-16;Calibración;35443
+12;9;2018-04-08;Correctivo;66579
+15;8;2018-06-12;Correctivo;162500
+10;26;2018-06-27;Preventivo;110339
+11;17;2018-10-27;Inspección;38331
+17;9;2019-01-10;Reemplazo de componentes;55390
+41;16;2019-03-05;Correctivo;84126
+34;15;2019-07-09;Reemplazo de componentes;157146
+25;11;2019-10-10;Calibración;147251
+38;7;2019-11-12;Reemplazo de componentes;29049
+26;6;2020-07-18;Preventivo;23020
+8;17;2020-10-08;Preventivo;50072
